@@ -1,1 +1,1 @@
-def registaration(first,last,username,password)
+def registaration(first,last,username,password,email)
